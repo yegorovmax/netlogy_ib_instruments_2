@@ -10,9 +10,11 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ProfileView" customModule="Netology_IB_Instruments" customModuleProvider="target">
             <connections>
-                <outlet property="cityUILabel" destination="4PN-gf-s5S" id="YD9-4Q-B5r"/>
-                <outlet property="imageUIImage" destination="fFc-tl-aOQ" id="Hjn-xe-tOG"/>
-                <outlet property="textUITextView" destination="lPY-qr-2Qy" id="afC-to-fLt"/>
+                <outlet property="cityUILabel" destination="4PN-gf-s5S" id="hom-U6-u97"/>
+                <outlet property="dobUILabel" destination="nli-Ld-zoB" id="YkU-On-W0V"/>
+                <outlet property="imageUIImageView" destination="fFc-tl-aOQ" id="xJT-oh-dRR"/>
+                <outlet property="nameUILabel" destination="lTe-l1-ktf" id="Hi8-0n-zg6"/>
+                <outlet property="textUIText" destination="lPY-qr-2Qy" id="5yp-wC-k3y"/>
             </connections>
         </placeholder>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
